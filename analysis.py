@@ -11,7 +11,7 @@ import logging
 logger = logging.getLogger(__name__)
 logger.setLevel(logging.INFO)
 
-# Create a file handler and a stream handler
+# Create a file handler and stream handler
 file_handler = logging.FileHandler('amazon_reviews.log')
 stream_handler = logging.StreamHandler()
 
