@@ -16,7 +16,7 @@ This project analyzes a sample dataset of Amazon unlocked mobile phone reviews. 
 
 Steps to build and/or run the software:
 
-1. Make sure Python 3 is installed
+1. Make sure Python 3.12 is installed
 2. Clone or download this repository
 3. Open a terminal in the project folder
 
@@ -30,7 +30,7 @@ Instructions for using the software:
 
 To recreate the development environment, you need the following software and/or libraries with the specified versions:
 
-* Python 3.11 (or higher)
+* Python 3.12
 * pandas 2.0+  
 * VS Code (optional, for editing)
 
